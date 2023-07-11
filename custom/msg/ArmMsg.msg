@@ -1,0 +1,9 @@
+float64 joint1_value
+float64 joint2_value
+float64 joint3_value
+float64 joint4_value
+float64 joint5_value
+float64 joint6_value
+float64 pos_x
+float64 pos_y
+float64 pos_z
